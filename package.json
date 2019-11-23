@@ -2,7 +2,7 @@
   "name": "to-do-fractal-analystics-master",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://dewalker07.github.io/to-do-fractal-analystics-master"
+  "homepage": "http://dewalker07.github.io/to-do-fractal-analystics-master",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "@material-ui/icons": "^3.0.2",
